@@ -14,8 +14,8 @@ body {
 
 .timer, .stopwatch {
     text-align: center;
-    padding: 20px;
-    border-radius: 10px;
+    padding: 50px;
+    border-radius: 600px;
     background-color: rgba(255, 255, 255, 0.1);
 }
 
